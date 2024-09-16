@@ -4,9 +4,13 @@ This repository host the proposed chat project using LLM, few things to note usi
 
 * You're to create your branch(es) after cloning/forking the repository. The naming convention is to tentavely be as follows:
     * 3-letters from your name plus CHAT; all capped plus 4 digit number starting from 1. For instance:
+
         GEECHAT-0001,
+
         NIMCHAT-0001,
+
         AWSCHAT-0001,
+        
         JUNCHAT-0001
 
     * The numbering will be continous for individual
